@@ -1,0 +1,189 @@
+{
+    "treeList": [],
+    "treeDistinctList": [
+        {
+            "name": "0268",
+            "id": null,
+            "count": 75,
+            "percent": 25.7
+        },
+        {
+            "name": "0312",
+            "id": null,
+            "count": 49,
+            "percent": 16.8
+        },
+        {
+            "name": "0054",
+            "id": null,
+            "count": 25,
+            "percent": 8.6
+        },
+        {
+            "name": "0083",
+            "id": null,
+            "count": 25,
+            "percent": 8.6
+        },
+        {
+            "name": "0011",
+            "id": null,
+            "count": 20,
+            "percent": 6.8
+        },
+        {
+            "name": "0363",
+            "id": null,
+            "count": 18,
+            "percent": 6.2
+        },
+        {
+            "name": "0297",
+            "id": null,
+            "count": 14,
+            "percent": 4.8
+        },
+        {
+            "name": "0221",
+            "id": null,
+            "count": 11,
+            "percent": 3.8
+        },
+        {
+            "name": "0081",
+            "id": null,
+            "count": 9,
+            "percent": 3.1
+        },
+        {
+            "name": "0213",
+            "id": null,
+            "count": 8,
+            "percent": 2.7
+        },
+        {
+            "name": "0193",
+            "id": null,
+            "count": 6,
+            "percent": 2.1
+        },
+        {
+            "name": "0435",
+            "id": null,
+            "count": 4,
+            "percent": 1.4
+        },
+        {
+            "name": "0118",
+            "id": null,
+            "count": 3,
+            "percent": 1
+        },
+        {
+            "name": "0328",
+            "id": null,
+            "count": 3,
+            "percent": 1
+        },
+        {
+            "name": "0102",
+            "id": null,
+            "count": 2,
+            "percent": 0.7
+        },
+        {
+            "name": "0028",
+            "id": null,
+            "count": 2,
+            "percent": 0.7
+        },
+        {
+            "name": "0222",
+            "id": null,
+            "count": 2,
+            "percent": 0.7
+        },
+        {
+            "name": "0348",
+            "id": null,
+            "count": 2,
+            "percent": 0.7
+        },
+        {
+            "name": "0343",
+            "id": null,
+            "count": 2,
+            "percent": 0.7
+        },
+        {
+            "name": "0026",
+            "id": null,
+            "count": 2,
+            "percent": 0.7
+        },
+        {
+            "name": "0289",
+            "id": null,
+            "count": 2,
+            "percent": 0.7
+        },
+        {
+            "name": "0060",
+            "id": null,
+            "count": 2,
+            "percent": 0.7
+        },
+        {
+            "name": "0487",
+            "id": null,
+            "count": 1,
+            "percent": 0.3
+        },
+        {
+            "name": "0299",
+            "id": null,
+            "count": 1,
+            "percent": 0.3
+        },
+        {
+            "name": "0086",
+            "id": null,
+            "count": 1,
+            "percent": 0.3
+        },
+        {
+            "name": "0001",
+            "id": null,
+            "count": 1,
+            "percent": 0.3
+        },
+        {
+            "name": "0373",
+            "id": null,
+            "count": 1,
+            "percent": 0.3
+        },
+        {
+            "name": "0315",
+            "id": null,
+            "count": 1,
+            "percent": 0.3
+        }
+    ],
+    "hasInfoCard": true,
+    "treeCount": 292,
+    "treeBound": {
+        "xmax": 120.53392131,
+        "xmin": 120.53219138,
+        "ymax": 24.254077558,
+        "ymin": 24.252097349
+    },
+    "choropleth": null,
+    "searchPara": {
+        "city": "8",
+        "town": "14",
+        "school": "064516",
+        "treeType": null,
+        "no": null
+    }
+}

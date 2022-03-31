@@ -1,0 +1,189 @@
+{
+    "treeList": [],
+    "treeDistinctList": [
+        {
+            "name": "0328",
+            "id": null,
+            "count": 31,
+            "percent": 22.3
+        },
+        {
+            "name": "0373",
+            "id": null,
+            "count": 18,
+            "percent": 12.9
+        },
+        {
+            "name": "0028",
+            "id": null,
+            "count": 17,
+            "percent": 12.2
+        },
+        {
+            "name": "0126",
+            "id": null,
+            "count": 10,
+            "percent": 7.2
+        },
+        {
+            "name": "0268",
+            "id": null,
+            "count": 9,
+            "percent": 6.5
+        },
+        {
+            "name": "0252",
+            "id": null,
+            "count": 8,
+            "percent": 5.8
+        },
+        {
+            "name": "0312",
+            "id": null,
+            "count": 7,
+            "percent": 5
+        },
+        {
+            "name": "0193",
+            "id": null,
+            "count": 4,
+            "percent": 2.9
+        },
+        {
+            "name": "0267",
+            "id": null,
+            "count": 4,
+            "percent": 2.9
+        },
+        {
+            "name": "0228",
+            "id": null,
+            "count": 3,
+            "percent": 2.2
+        },
+        {
+            "name": "0363",
+            "id": null,
+            "count": 2,
+            "percent": 1.4
+        },
+        {
+            "name": "0154",
+            "id": null,
+            "count": 2,
+            "percent": 1.4
+        },
+        {
+            "name": "0124",
+            "id": null,
+            "count": 2,
+            "percent": 1.4
+        },
+        {
+            "name": "0102",
+            "id": null,
+            "count": 2,
+            "percent": 1.4
+        },
+        {
+            "name": "0764",
+            "id": null,
+            "count": 2,
+            "percent": 1.4
+        },
+        {
+            "name": "0222",
+            "id": null,
+            "count": 2,
+            "percent": 1.4
+        },
+        {
+            "name": "0086",
+            "id": null,
+            "count": 2,
+            "percent": 1.4
+        },
+        {
+            "name": "0081",
+            "id": null,
+            "count": 2,
+            "percent": 1.4
+        },
+        {
+            "name": "0269",
+            "id": null,
+            "count": 2,
+            "percent": 1.4
+        },
+        {
+            "name": "0358",
+            "id": null,
+            "count": 2,
+            "percent": 1.4
+        },
+        {
+            "name": "0407",
+            "id": null,
+            "count": 1,
+            "percent": 0.7
+        },
+        {
+            "name": "0161",
+            "id": null,
+            "count": 1,
+            "percent": 0.7
+        },
+        {
+            "name": "0297",
+            "id": null,
+            "count": 1,
+            "percent": 0.7
+        },
+        {
+            "name": "0016",
+            "id": null,
+            "count": 1,
+            "percent": 0.7
+        },
+        {
+            "name": "0306",
+            "id": null,
+            "count": 1,
+            "percent": 0.7
+        },
+        {
+            "name": "0062",
+            "id": null,
+            "count": 1,
+            "percent": 0.7
+        },
+        {
+            "name": "0024",
+            "id": null,
+            "count": 1,
+            "percent": 0.7
+        },
+        {
+            "name": "0003",
+            "id": null,
+            "count": 1,
+            "percent": 0.7
+        }
+    ],
+    "hasInfoCard": false,
+    "treeCount": 139,
+    "treeBound": {
+        "xmax": 121.15249623,
+        "xmin": 121.15099779,
+        "ymax": 22.747637434,
+        "ymin": 22.74594911
+    },
+    "choropleth": null,
+    "searchPara": {
+        "city": "19",
+        "town": "1",
+        "school": "144602",
+        "treeType": null,
+        "no": null
+    }
+}

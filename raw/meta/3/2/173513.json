@@ -1,0 +1,189 @@
+{
+    "treeList": [],
+    "treeDistinctList": [
+        {
+            "name": "0028",
+            "id": null,
+            "count": 37,
+            "percent": 20.2
+        },
+        {
+            "name": "0261",
+            "id": null,
+            "count": 37,
+            "percent": 20.2
+        },
+        {
+            "name": "0268",
+            "id": null,
+            "count": 31,
+            "percent": 16.9
+        },
+        {
+            "name": "0161",
+            "id": null,
+            "count": 8,
+            "percent": 4.4
+        },
+        {
+            "name": "0011",
+            "id": null,
+            "count": 7,
+            "percent": 3.8
+        },
+        {
+            "name": "0041",
+            "id": null,
+            "count": 6,
+            "percent": 3.3
+        },
+        {
+            "name": "0242",
+            "id": null,
+            "count": 6,
+            "percent": 3.3
+        },
+        {
+            "name": "0037",
+            "id": null,
+            "count": 5,
+            "percent": 2.7
+        },
+        {
+            "name": "0312",
+            "id": null,
+            "count": 5,
+            "percent": 2.7
+        },
+        {
+            "name": "0299",
+            "id": null,
+            "count": 5,
+            "percent": 2.7
+        },
+        {
+            "name": "0222",
+            "id": null,
+            "count": 4,
+            "percent": 2.2
+        },
+        {
+            "name": "0328",
+            "id": null,
+            "count": 4,
+            "percent": 2.2
+        },
+        {
+            "name": "0001",
+            "id": null,
+            "count": 3,
+            "percent": 1.6
+        },
+        {
+            "name": "0240",
+            "id": null,
+            "count": 3,
+            "percent": 1.6
+        },
+        {
+            "name": "0213",
+            "id": null,
+            "count": 3,
+            "percent": 1.6
+        },
+        {
+            "name": "0026",
+            "id": null,
+            "count": 3,
+            "percent": 1.6
+        },
+        {
+            "name": "0056",
+            "id": null,
+            "count": 2,
+            "percent": 1.1
+        },
+        {
+            "name": "0297",
+            "id": null,
+            "count": 2,
+            "percent": 1.1
+        },
+        {
+            "name": "0170",
+            "id": null,
+            "count": 2,
+            "percent": 1.1
+        },
+        {
+            "name": "0568",
+            "id": null,
+            "count": 2,
+            "percent": 1.1
+        },
+        {
+            "name": "0356",
+            "id": null,
+            "count": 1,
+            "percent": 0.5
+        },
+        {
+            "name": "0436",
+            "id": null,
+            "count": 1,
+            "percent": 0.5
+        },
+        {
+            "name": "0757",
+            "id": null,
+            "count": 1,
+            "percent": 0.5
+        },
+        {
+            "name": "0208",
+            "id": null,
+            "count": 1,
+            "percent": 0.5
+        },
+        {
+            "name": "0198",
+            "id": null,
+            "count": 1,
+            "percent": 0.5
+        },
+        {
+            "name": "0247",
+            "id": null,
+            "count": 1,
+            "percent": 0.5
+        },
+        {
+            "name": "0075",
+            "id": null,
+            "count": 1,
+            "percent": 0.5
+        },
+        {
+            "name": "0156",
+            "id": null,
+            "count": 1,
+            "percent": 0.5
+        }
+    ],
+    "hasInfoCard": false,
+    "treeCount": 183,
+    "treeBound": {
+        "xmax": 121.69908324,
+        "xmin": 121.6976378,
+        "ymax": 25.084154061,
+        "ymin": 25.08200066
+    },
+    "choropleth": null,
+    "searchPara": {
+        "city": "3",
+        "town": "2",
+        "school": "173513",
+        "treeType": null,
+        "no": null
+    }
+}

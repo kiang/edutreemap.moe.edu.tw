@@ -1,0 +1,75 @@
+{
+    "treeList": [],
+    "treeDistinctList": [
+        {
+            "name": "0328",
+            "id": null,
+            "count": 6,
+            "percent": 35.3
+        },
+        {
+            "name": "0405",
+            "id": null,
+            "count": 4,
+            "percent": 23.5
+        },
+        {
+            "name": "0202",
+            "id": null,
+            "count": 1,
+            "percent": 5.9
+        },
+        {
+            "name": "0376",
+            "id": null,
+            "count": 1,
+            "percent": 5.9
+        },
+        {
+            "name": "0113",
+            "id": null,
+            "count": 1,
+            "percent": 5.9
+        },
+        {
+            "name": "0127",
+            "id": null,
+            "count": 1,
+            "percent": 5.9
+        },
+        {
+            "name": "0041",
+            "id": null,
+            "count": 1,
+            "percent": 5.9
+        },
+        {
+            "name": "0276",
+            "id": null,
+            "count": 1,
+            "percent": 5.9
+        },
+        {
+            "name": "0437",
+            "id": null,
+            "count": 1,
+            "percent": 5.9
+        }
+    ],
+    "hasInfoCard": false,
+    "treeCount": 17,
+    "treeBound": {
+        "xmax": 121.397437,
+        "xmin": 121.3970358,
+        "ymax": 24.685663946,
+        "ymin": 24.685297554
+    },
+    "choropleth": null,
+    "searchPara": {
+        "city": "4",
+        "town": "13",
+        "school": "034741",
+        "treeType": null,
+        "no": null
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "treeList": [],
+    "treeDistinctList": [
+        {
+            "name": "0373",
+            "id": null,
+            "count": 35,
+            "percent": 57.4
+        },
+        {
+            "name": "0024",
+            "id": null,
+            "count": 17,
+            "percent": 27.9
+        },
+        {
+            "name": "0328",
+            "id": null,
+            "count": 5,
+            "percent": 8.2
+        },
+        {
+            "name": "0242",
+            "id": null,
+            "count": 3,
+            "percent": 4.9
+        },
+        {
+            "name": "0074",
+            "id": null,
+            "count": 1,
+            "percent": 1.6
+        }
+    ],
+    "hasInfoCard": true,
+    "treeCount": 61,
+    "treeBound": {
+        "xmax": 119.52619267,
+        "xmin": 119.52495087,
+        "ymax": 23.36515711,
+        "ymin": 23.364230374
+    },
+    "choropleth": null,
+    "searchPara": {
+        "city": "21",
+        "town": "5",
+        "school": "164511",
+        "treeType": null,
+        "no": null
+    }
+}

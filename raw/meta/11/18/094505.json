@@ -1,0 +1,123 @@
+{
+    "treeList": [],
+    "treeDistinctList": [
+        {
+            "name": "0328",
+            "id": null,
+            "count": 74,
+            "percent": 30.7
+        },
+        {
+            "name": "0268",
+            "id": null,
+            "count": 66,
+            "percent": 27.4
+        },
+        {
+            "name": "0371",
+            "id": null,
+            "count": 35,
+            "percent": 14.5
+        },
+        {
+            "name": "0363",
+            "id": null,
+            "count": 20,
+            "percent": 8.3
+        },
+        {
+            "name": "0198",
+            "id": null,
+            "count": 11,
+            "percent": 4.6
+        },
+        {
+            "name": "0124",
+            "id": null,
+            "count": 10,
+            "percent": 4.1
+        },
+        {
+            "name": "0256",
+            "id": null,
+            "count": 6,
+            "percent": 2.5
+        },
+        {
+            "name": "0306",
+            "id": null,
+            "count": 4,
+            "percent": 1.7
+        },
+        {
+            "name": "0092",
+            "id": null,
+            "count": 3,
+            "percent": 1.2
+        },
+        {
+            "name": "0356",
+            "id": null,
+            "count": 3,
+            "percent": 1.2
+        },
+        {
+            "name": "0193",
+            "id": null,
+            "count": 2,
+            "percent": 0.8
+        },
+        {
+            "name": "0011",
+            "id": null,
+            "count": 2,
+            "percent": 0.8
+        },
+        {
+            "name": "0252",
+            "id": null,
+            "count": 1,
+            "percent": 0.4
+        },
+        {
+            "name": "0179",
+            "id": null,
+            "count": 1,
+            "percent": 0.4
+        },
+        {
+            "name": "0024",
+            "id": null,
+            "count": 1,
+            "percent": 0.4
+        },
+        {
+            "name": "0373",
+            "id": null,
+            "count": 1,
+            "percent": 0.4
+        },
+        {
+            "name": "0160",
+            "id": null,
+            "count": 1,
+            "percent": 0.4
+        }
+    ],
+    "hasInfoCard": false,
+    "treeCount": 241,
+    "treeBound": {
+        "xmax": 120.22749748,
+        "xmin": 120.22554389,
+        "ymax": 23.630588962,
+        "ymin": 23.628987258
+    },
+    "choropleth": null,
+    "searchPara": {
+        "city": "11",
+        "town": "18",
+        "school": "094505",
+        "treeType": null,
+        "no": null
+    }
+}

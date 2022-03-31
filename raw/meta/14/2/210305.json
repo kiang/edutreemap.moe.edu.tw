@@ -1,0 +1,20 @@
+{
+    "treeList": [],
+    "treeDistinctList": [],
+    "hasInfoCard": false,
+    "treeCount": 0,
+    "treeBound": {
+        "xmax": 120.2184494892,
+        "xmin": 120.2164494892,
+        "ymax": 22.9946291145,
+        "ymin": 22.9926291145
+    },
+    "choropleth": null,
+    "searchPara": {
+        "city": "14",
+        "town": "2",
+        "school": "210305",
+        "treeType": null,
+        "no": null
+    }
+}

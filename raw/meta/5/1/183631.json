@@ -1,0 +1,99 @@
+{
+    "treeList": [],
+    "treeDistinctList": [
+        {
+            "name": "0297",
+            "id": null,
+            "count": 18,
+            "percent": 47.4
+        },
+        {
+            "name": "0312",
+            "id": null,
+            "count": 5,
+            "percent": 13.2
+        },
+        {
+            "name": "0269",
+            "id": null,
+            "count": 3,
+            "percent": 7.9
+        },
+        {
+            "name": "0183",
+            "id": null,
+            "count": 2,
+            "percent": 5.3
+        },
+        {
+            "name": "0296",
+            "id": null,
+            "count": 2,
+            "percent": 5.3
+        },
+        {
+            "name": "0161",
+            "id": null,
+            "count": 1,
+            "percent": 2.6
+        },
+        {
+            "name": "0314",
+            "id": null,
+            "count": 1,
+            "percent": 2.6
+        },
+        {
+            "name": "0013",
+            "id": null,
+            "count": 1,
+            "percent": 2.6
+        },
+        {
+            "name": "0026",
+            "id": null,
+            "count": 1,
+            "percent": 2.6
+        },
+        {
+            "name": "0255",
+            "id": null,
+            "count": 1,
+            "percent": 2.6
+        },
+        {
+            "name": "0487",
+            "id": null,
+            "count": 1,
+            "percent": 2.6
+        },
+        {
+            "name": "0134",
+            "id": null,
+            "count": 1,
+            "percent": 2.6
+        },
+        {
+            "name": "0222",
+            "id": null,
+            "count": 1,
+            "percent": 2.6
+        }
+    ],
+    "hasInfoCard": false,
+    "treeCount": 38,
+    "treeBound": {
+        "xmax": 120.91327561,
+        "xmin": 120.91252293,
+        "ymax": 24.742042851,
+        "ymin": 24.741433549
+    },
+    "choropleth": null,
+    "searchPara": {
+        "city": "5",
+        "town": "1",
+        "school": "183631",
+        "treeType": null,
+        "no": null
+    }
+}
