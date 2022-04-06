@@ -92,6 +92,10 @@ $jsonSchool = [
     'features' => [],
 ];
 
+if (!file_exists($jsonPath . '/school')) {
+    mkdir($jsonPath . '/school', 0777);
+}
+
 foreach ($schools['SchoolList'] as $school) {
     if (empty($school['Parent']) || empty($school['Parent2'])) {
         continue;
@@ -114,7 +118,6 @@ foreach ($schools['SchoolList'] as $school) {
         continue;
     }
     $meta = json_decode(file_get_contents($metaFile), true);
-
 
     $treePath = $rawPath . '/tree/' . $school['Parent'] . '/' . $school['Parent2'];
     if (!file_exists($treePath)) {
@@ -149,6 +152,24 @@ foreach ($schools['SchoolList'] as $school) {
         }
     }
     $tree = json_decode(file_get_contents($treeFile), true);
+
+    $dataSchool = [
+        'info' => $pool[$school['Value']],
+        'tree' => [],
+    ];
+
+    foreach ($tree['data']['treeList'] as $tree) {
+        $treeType = $treeTypes[$tree['n']];
+        if (!isset($dataSchool['tree'][$treeType])) {
+            $dataSchool['tree'][$treeType] = [];
+        }
+        $dataSchool['tree'][$treeType][] = [
+            floatval($tree['x']),
+            floatval($tree['y']),
+        ];
+    }
+
+    file_put_contents($jsonPath . '/school/' . $school['Value'] . '.json', json_encode($dataSchool, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 }
 
 file_put_contents($jsonPath . '/school.json', json_encode($jsonSchool, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
